@@ -21,4 +21,3 @@ if best_drum in drum_brands:
     print(f"The best drum brand is {best_drum.upper()}!")
 else:
     print("You need a better set of drums!")
-
