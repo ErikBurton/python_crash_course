@@ -1,7 +1,3 @@
-Here's an enhanced version of the README using Markdown to improve readability and add structure:
-
----
-
 # 🐍 Python Crash Course Practice
 
 This repository is dedicated to my practice work from **_Python Crash Course_** by Eric Matthes. Here, I’m working through exercises and projects to reinforce Python fundamentals and build hands-on coding experience.
@@ -29,6 +25,3 @@ By practicing with this repository, I aim to:
 ## 📌 Note
 This repository is for personal study, practice, and growth in Python programming based on *Python Crash Course*. Feel free to explore, use, or adapt any of the examples if you’re also learning Python!
 
---- 
-
-This layout makes the README organized, visually appealing, and informative for anyone viewing your repository.
