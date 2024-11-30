@@ -7,7 +7,7 @@ mydict = {
 x = mydict["make"]
 y = mydict.get("year")
 z = mydict.keys()
-print(x) 
+print(x)
 
 print(y)
 print(z)
@@ -15,7 +15,7 @@ print(z)
 m = mydict.items()
 print(m)
 mydict["Engine"] = "LT4"
-print(m)  
+print(m)
 
 mydict["color"] = "black"
 
