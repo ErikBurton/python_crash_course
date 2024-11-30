@@ -11,5 +11,5 @@ print(
 )
 print(
     f"{person['first_name'].title()} is {person['age']} years old, "
-    f"and she lives in {person['city'].title()}."
+    f"and he lives in {person['city'].title()}."
 )
